@@ -10,6 +10,25 @@ The [group web page](https://lms.mrc.ac.uk/research-group/cardiovascular-genomic
 
 **Selected public repositories**  
 
+|Public repos supporting published work: | |
+|-|-| 
+| ACM | | 
+| CardioBoost_manuscript | | 
+| CardioClassifierManuscript | | 
+| frequencyFilter | | 
+| homologous-missense-constraint | | 
+| ResponseToShahEtAl | | 
+| uORFs | | 
+| UTRannotator | | 
+
+|Other public repos: | |
+|-|-| 
+| BioinfoJournalClub | | 
+| cTTN | | 
+| gnomadjs | | 
+| variantfx | | 
+| web | | 
+
 
 **Selected private repositories**  
 An index and overview of key internal resources is maintained at https://github.com/ImperialCardioGenetics/private-github-index (accessible to team members only)
