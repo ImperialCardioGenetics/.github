@@ -12,5 +12,4 @@ The [group web page](https://lms.mrc.ac.uk/research-group/cardiovascular-genomic
 
 
 **Selected private repositories**  
-
-<!--
+An index and overview of key internal resources is maintained at https://github.com/ImperialCardioGenetics/private-github-index (accessible to team members only)
