@@ -29,6 +29,24 @@ The [group web page](https://lms.mrc.ac.uk/research-group/cardiovascular-genomic
 | variantfx | |  
 | web | |  
 
+|Repos on [James' github](https://github.com/jamesware): | description | PMCID / DOI |
+|-|-|-| 
+| [alleleFrequencyApp](https://github.com/jamesware/alleleFrequencyApp) |  | PMC5563454 |  
+| [denovolyzeR](https://github.com/jamesware/denovolyzeR) | An R package for statistical analyses of de novo genetic variants
+| |  
+| [denovolyzeR.org](https://github.com/jamesware/denovolyzeR.org) | Code for the denovolyeR website | denovolyzer.org |  
+| [denovolyzerManuscript](https://github.com/jamesware/denovolyzerManuscript) | Current protocols in human genetics denovolyzeR manuscript (manuscript source code) | |  
+| [denovolyzeR-ProbabilityTables](https://github.com/jamesware/denovolyzeR-ProbabilityTables) | Additional probability tables to be used with denovolyzeR | NA |  
+| [eLife_Alamo2017](https://github.com/jamesware/eLife_Alamo2017) | Code to reproduce analyses presented in Alamo et al, eLife 2017 | |  
+| [APPRAISE](https://github.com/jamesware/APPRAISE) | A Bayesian framework for the analysis and interpretation of rare genetic variants | PMC / URL |  
+| [knitauthors](https://github.com/jamesware/knitauthors) | An unpublished R package to format & number author/affiliation lists for publication | |  
+| reproSci / demo | Code for teaching / demonstrating RMarkdown, including manuscript preparation | |  
+| []() | | |  
+
+
+
+
+
 
 **Selected private repositories**  
 An index and overview of key internal resources is maintained at https://github.com/ImperialCardioGenetics/private-github-index (accessible to team members only)
