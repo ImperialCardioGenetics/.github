@@ -1,5 +1,5 @@
 ## This is a collection of repositories from the Cardiovascular Genomics and Precision Medicine team at Imperial College London
-The group spans the National Heart & Lung Institute at Imperial College London, the MRC London Institute of Medical Sciences (LMS), and the Royal Brompton & Harefield Hospitals group at Guy's and St Thomas' Hospitals NHS Trust.
+The Cardiovascular Genomics and Precision Medicine group (Ware lab) spans the National Heart & Lung Institute at Imperial College London, the MRC London Institute of Medical Sciences (LMS), and the Royal Brompton & Harefield Hospitals group at Guy's and St Thomas' Hospitals NHS Trust.
 
 **Web resources from the group**  
 [cvgenetics.org](https://cvgenetics.org) has information about the group and an index of our published resources  
@@ -12,14 +12,14 @@ The [group web page](https://lms.mrc.ac.uk/research-group/cardiovascular-genomic
 
 |Public repos supporting published work: | PMC ID / DOI | Description |
 |-|-|-|
-| ACM | | | 
-| CardioBoost_manuscript | |  |
-| CardioClassifierManuscript | |  |
-| frequencyFilter | |  |
-| homologous-missense-constraint | |  |
-| ResponseToShahEtAl | |  |
-| uORFs | |  |
-| UTRannotator | |  |
+| ACM | PMC5957753 | | 
+| CardioBoost_manuscript | PMC8150139 |  |
+| CardioClassifierManuscript | PMC6558251 |  |
+| frequencyFilter | PMC5563454 |  |
+| homologous-missense-constraint | medRxiv https://doi.org/10.1101/2022.02.16.22271023 |  |
+| ResponseToShahEtAl | PMC6323549 |  |
+| uORFs | PMC7253449 |  |
+| UTRannotator | PMC8150139 |  |
 
 |Other public repos: | |
 |-|-| 
