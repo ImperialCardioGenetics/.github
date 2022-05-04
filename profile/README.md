@@ -10,24 +10,24 @@ The [group web page](https://lms.mrc.ac.uk/research-group/cardiovascular-genomic
 
 **Selected public repositories**  
 
-|Public repos supporting published work: | |
-|-|-| 
-| ACM | | 
-| CardioBoost_manuscript | | 
-| CardioClassifierManuscript | | 
-| frequencyFilter | | 
-| homologous-missense-constraint | | 
-| ResponseToShahEtAl | | 
-| uORFs | | 
-| UTRannotator | | 
+|Public repos supporting published work: | PMC ID / DOI | Description |
+|-|-|-|
+| ACM | | | 
+| CardioBoost_manuscript | |  |
+| CardioClassifierManuscript | |  |
+| frequencyFilter | |  |
+| homologous-missense-constraint | |  |
+| ResponseToShahEtAl | |  |
+| uORFs | |  |
+| UTRannotator | |  |
 
 |Other public repos: | |
 |-|-| 
-| BioinfoJournalClub | | 
-| cTTN | | 
-| gnomadjs | | 
-| variantfx | | 
-| web | | 
+| BioinfoJournalClub | |  
+| cTTN | |  
+| gnomadjs | |  
+| variantfx | |  
+| web | |  
 
 
 **Selected private repositories**  
