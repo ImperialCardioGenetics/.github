@@ -13,7 +13,7 @@ The [group web page](https://lms.mrc.ac.uk/research-group/cardiovascular-genomic
 |Public repos supporting published work: | PMC ID / DOI | Description |
 |-|-|-|
 | ACM | [PMC5957753](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc5957753/) | "Genetic Etiology for Alcohol-Induced Cardiac Toxicity" | 
-| CardioBoost_manuscript | [PMC7790749]](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7790749/) | AI Missense Variant Pathogenicity Prediction for Inherited Cardiac Conditions |
+| CardioBoost_manuscript | [PMC7790749](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7790749/) | AI Missense Variant Pathogenicity Prediction for Inherited Cardiac Conditions |
 | CardioClassifierManuscript | PMC6558251 |  |
 | frequencyFilter | PMC5563454 |  |
 | homologous-missense-constraint | medRxiv https://doi.org/10.1101/2022.02.16.22271023 |  |
