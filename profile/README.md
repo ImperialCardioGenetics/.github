@@ -20,6 +20,9 @@ The [group web page](https://lms.mrc.ac.uk/research-group/cardiovascular-genomic
 | ResponseToShahEtAl | PMC6323549 |  |
 | uORFs | PMC7253449 |  |
 | UTRannotator | PMC8150139 |  |
+| ParalogueAnnotator | VEP plug-in|
+| ParalogueAnnotation_personal | bioRxiv [link]|
+| Paralogue_Annotation_App | bioRxiv [link as above]|
 
 |Other public repos: | |
 |-|-| 
