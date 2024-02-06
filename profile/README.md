@@ -23,6 +23,7 @@ The [group web page](https://lms.mrc.ac.uk/research-group/cardiovascular-genomic
 | ParalogueAnnotator | _pending_ | A VEP plug-in to perform paralogue annotation |  
 | ParalogueAnnotation_personal | [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.07.552236v1.full)| manuscript validating utility of paralogue annotation for missense variant interpretation |  
 | Paralogue_Annotation_App | [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.07.552236v1.full) | codebase for the paralogue annotation web app |  
+| Cardiac_Gene2Phenotype | [PMC10594882](https://pubmed.ncbi.nlm.nih.gov/37872640/) | CardiacG2P is an evidence-based dataset for inherited cardiac condition gene disease pairs |
 
 |Other public repos: | |
 |-|-| 
