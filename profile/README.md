@@ -1,5 +1,5 @@
 ## This is a collection of repositories from the Cardiovascular Genomics and Precision Medicine team at Imperial College London
-The Cardiovascular Genomics and Precision Medicine group (Ware lab) spans the National Heart & Lung Institute at Imperial College London, the MRC London Institute of Medical Sciences (LMS), and the Royal Brompton & Harefield Hospitals group at Guy's and St Thomas' Hospitals NHS Trust.
+The Cardiovascular Genomics and Precision Medicine group (Ware lab) spans the National Heart & Lung Institute at Imperial College London, the MRC Laboratory of Medical Sciences (LMS), Imperial College Healthcare NHS Trust, and the Royal Brompton & Harefield Hospitals group at Guy's and St Thomas' Hospitals NHS Trust.
 
 **Web resources from the group**  
 [cvgenetics.org](https://cvgenetics.org) has information about the group and an index of our published resources  
