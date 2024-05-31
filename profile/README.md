@@ -12,18 +12,18 @@ The [group web page](https://lms.mrc.ac.uk/research-group/cardiovascular-genomic
 
 |Public repos supporting published work: | PMC ID / DOI | Description |
 |-|-|-|
-| ACM | [PMC5957753](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc5957753/) | Genetic Etiology for Alcohol-Induced Cardiac Toxicity | 
-| CardioBoost_manuscript | [PMC7790749](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7790749/) | AI Missense Variant Pathogenicity Prediction for Inherited Cardiac Conditions |
-| CardioClassifierManuscript | [PMC6558251](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6558251/) | CardioClassifier decision support tool for ICC variant interpretation in ACMG framework |
-| frequencyFilter | [PMC5563454](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5563454/)  | Framework to use variant frequency data in clinical genome intepretation |
-| homologous-missense-constraint | [medRxiv](https://doi.org/10.1101/2022.02.16.22271023) | Estimating genetic constraint at single amino acid resolution using homologous protein domain structures |
-| ResponseToShahEtAl |  https://doi.org/10.1016/j.gim.2021.10.020 | A response to updated ACMG secondary findings guidelines that recommend returning SFs in cardiomyopathy genes including Titin |
-| uORFs | [PMC7253449](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7253449/) | Characterising the loss-of-function impact of 5’ untranslated region variants in gnomAD |
-| UTRannotator | [PMC8150139](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8150139/) | A VEP plug-in to annotate UTR variants |  
-| ParalogueAnnotator | _pending_ | A VEP plug-in to perform paralogue annotation |  
+| [ACM](https://github.com/ImperialCardioGenetics/ACM) | [PMC5957753](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc5957753/) | Genetic Etiology for Alcohol-Induced Cardiac Toxicity | 
+| [CardioBoost_manuscript](https://github.com/ImperialCardioGenetics/CardioBoost_manuscript) | [PMC7790749](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7790749/) | AI Missense Variant Pathogenicity Prediction for Inherited Cardiac Conditions |
+| [CardioClassifierManuscript](https://github.com/ImperialCardioGenetics/CardioClassifierManuscript) | [PMC6558251](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6558251/) | CardioClassifier decision support tool for ICC variant interpretation in ACMG framework |
+| [frequencyFilter](https://github.com/ImperialCardioGenetics/frequencyFilter) | [PMC5563454](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5563454/)  | Framework to use variant frequency data in clinical genome intepretation |
+| [homologous-missense-constraint](https://github.com/ImperialCardioGenetics/homologous-missense-constraint) | [medRxiv](https://doi.org/10.1101/2022.02.16.22271023) | Estimating genetic constraint at single amino acid resolution using homologous protein domain structures |
+| [ResponseToShahEtAl](https://github.com/ImperialCardioGenetics/ResponseToShahEtAl) |  https://doi.org/10.1016/j.gim.2021.10.020 | A response to updated ACMG secondary findings guidelines that recommend returning SFs in cardiomyopathy genes including Titin |
+| [uORFs](https://github.com/ImperialCardioGenetics/uORFs) | [PMC7253449](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7253449/) | Characterising the loss-of-function impact of 5’ untranslated region variants in gnomAD |
+| [UTRannotator](https://github.com/ImperialCardioGenetics/UTRannotator) | [PMC8150139](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8150139/) | A VEP plug-in to annotate UTR variants |  
+| [ParalogueAnnotator](https://github.com/ImperialCardioGenetics/paralogueAnnotator) | _pending_ | A VEP plug-in to perform paralogue annotation |  
 | ParalogueAnnotation_personal | [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.07.552236v1.full)| manuscript validating utility of paralogue annotation for missense variant interpretation |  
-| Paralogue_Annotation_App | [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.07.552236v1.full) | codebase for the paralogue annotation web app |  
-| Cardiac_Gene2Phenotype | [PMC10594882](https://pubmed.ncbi.nlm.nih.gov/37872640/) | CardiacG2P is an evidence-based dataset for inherited cardiac condition gene disease pairs |
+| [Paralogue_Annotation_App](https://github.com/ImperialCardioGenetics/Paralogue_Annotation_App) | [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.07.552236v1.full) | codebase for the paralogue annotation web app |  
+| [G2P-Cardiac-Panel](https://github.com/ImperialCardioGenetics/G2P-Cardiac-Panel) | [PMC10594882](https://pubmed.ncbi.nlm.nih.gov/37872640/) | CardiacG2P is an evidence-based dataset for inherited cardiac condition gene disease pairs |
 
 |Other public repos: | |
 |-|-| 
