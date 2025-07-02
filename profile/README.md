@@ -24,6 +24,7 @@ The [group web page](https://lms.mrc.ac.uk/research-group/cardiovascular-genomic
 | ParalogueAnnotation_personal | [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.07.552236v1.full)| manuscript validating utility of paralogue annotation for missense variant interpretation |  
 | [Paralogue_Annotation_App](https://github.com/ImperialCardioGenetics/Paralogue_Annotation_App) | [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.07.552236v1.full) | codebase for the paralogue annotation web app |  
 | [G2P-Cardiac-Panel](https://github.com/ImperialCardioGenetics/G2P-Cardiac-Panel) | [PMC10594882](https://pubmed.ncbi.nlm.nih.gov/37872640/) | CardiacG2P is an evidence-based dataset for inherited cardiac condition gene disease pairs |
+| [DECG_Explorer](https://github.com/ImperialCardioGenetics/DECG_Explorer) | _pending_ | Digital ECG Latent Factor Explorer RShiny app | 
 
 |Other public repos: | |
 |-|-| 
