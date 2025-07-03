@@ -21,7 +21,7 @@ The [group web page](https://lms.mrc.ac.uk/research-group/cardiovascular-genomic
 | [uORFs](https://github.com/ImperialCardioGenetics/uORFs) | [PMC7253449](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7253449/) | Characterising the loss-of-function impact of 5’ untranslated region variants in gnomAD |
 | [UTRannotator](https://github.com/ImperialCardioGenetics/UTRannotator) | [PMC8150139](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8150139/) | A VEP plug-in to annotate UTR variants |  
 | [ParalogueAnnotator](https://github.com/ImperialCardioGenetics/paralogueAnnotator) | _pending_ | A VEP plug-in to perform paralogue annotation |  
-| ParalogueAnnotation_personal | [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.07.552236v1.full)| manuscript validating utility of paralogue annotation for missense variant interpretation |  
+| [ParalogueAnnotation_supplementary_repo](https://github.com/ImperialCardioGenetics/ParalogueAnnotation_supplementary_repo) | [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.07.552236v1.full)| manuscript validating utility of paralogue annotation for missense variant interpretation |  
 | [Paralogue_Annotation_App](https://github.com/ImperialCardioGenetics/Paralogue_Annotation_App) | [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.07.552236v1.full) | codebase for the paralogue annotation web app |  
 | [G2P-Cardiac-Panel](https://github.com/ImperialCardioGenetics/G2P-Cardiac-Panel) | [PMC10594882](https://pubmed.ncbi.nlm.nih.gov/37872640/) | CardiacG2P is an evidence-based dataset for inherited cardiac condition gene disease pairs |
 | [DECG_Explorer](https://github.com/ImperialCardioGenetics/DECG_Explorer) | _pending_ | Digital ECG Latent Factor Explorer RShiny app | 
